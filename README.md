@@ -1,18 +1,14 @@
-<h1 align="center">Hello World</h1>
+<h1 align="left">It's OZ</h1>
 
 ###
 
-<h3 align="left">It's OZ</h3>
-
-###
-
-<h3 align="left">web devel oper</h3>
+<h3 align="center">web devel oper</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -26,13 +22,21 @@
 
 ###
 
-<h4 align="right">Study ing  mobile app  development</h4>
+<h4 align="center">language : English users</h4>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=OZ-00MS &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<div align="right">
+###
+
+<h4 align="left">Study  mobile app</h4>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -40,23 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h4 align="left">language : English users</h4>
-
-###
-
-<h4 align="left">Contact me in</h4>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
 </div>
 
 ###
