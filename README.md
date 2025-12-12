@@ -48,10 +48,6 @@
 
 ###
 
-<h4 align="left">languages : English user</h4>
-
-###
-
 <img src="https://raw.githubusercontent.com/OZ-00MS /OZ-00MS /output/snake.svg" alt="Snake animation" />
 
 ###
