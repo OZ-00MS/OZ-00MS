@@ -68,7 +68,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/OZ-00MS /OZ-00MS /output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/OZ-00MS/oz-00ms/output/snake.svg" alt="Snake animation"/>
+
 
 
 ###
