@@ -24,12 +24,7 @@
 
 <h4 align="center">language : English users</h4>
 
-###
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=OZ-00MS&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
-
-</div>
 
 ###
 
